@@ -27,17 +27,21 @@ project. They generally do one set of things well.
 
   End-user focused applications; may contain a GUI or browser interface.
 
+* [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
 * [Dicompyler](https://github.com/bastula/dicompyler) - (**Deprecated**) dicompyler is an extensible open source radiation therapy research platform based on the DICOM standard. It also functions as a cross-platform DICOM RT viewer.
 * [dicomutils](https://github.com/raysearchlabs/dicomutils) - (Appears deprecated) A set of utilities for working with DICOM files.
 * [DVH-Analytics](https://github.com/cutright/DVH-Analytics) - (**Deprecated**) A software application for building a local database of radiation oncology treatment planning data.
 * [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simpliest PACS server for your dicom files.
+* [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
 * [Orthanc](https://github.com/jodogne/Orthanc) - Orthanc is a lightweight DICOM server for medical imaging.
+* [PDFtoAria](https://github.com/LDClark/PDFtoAria) - An executable script that uses Oncology Services and Eclipse Scripting APIs to upload a PDF file into Aria.
 * [PlanCheck](https://github.com/LDClark/PlanCheck) - A version 15/16 read-only plugin script that checks: Plan DVH metrics including planSums and planSetups, with PDF reports and customizable templates.
 * [pyQAserver](https://github.com/brjdenis/pyqaserver) - Pyqaserver connects Pylinac and Orthanc with a simplistic web interface.
 * [QATrack+](https://github.com/qatrackplus/qatrackplus) - QATrack+ is a fully configurable, free, and open source (MIT License) web application for managing QA data for radiation therapy and medical imaging equipment.
+* [VarianESAPI-FieldEditor](https://github.com/brjdenis/VarianESAPI-FieldEditor) - A Varian ESAPI script for viewing and editing field parameters, mostly MLC and Jaw positions and meterset weights.
 
 ## Educational Resources
 
