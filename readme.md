@@ -12,10 +12,12 @@ project. They generally do one set of things well.
 
 * [ApertureComplexity](https://github.com/victorgabr/ApertureComplexity) - (Python) It is a Python 3.x port of the Eclipse ESAPI plug-in script. As such, it aims to contain the complete functionality of the aperture complexity analysis.
 * [BeamScheme](https://github.com/alanphys/BeamScheme) - (Pascal) This software will assist you in extracting 1D profiles from 2D datasets and calculating various parameters on the profiles.
+* [ClinicalTemplateReader](https://github.com/WUSTL-ClinicalDev/ClinicalTemplateReader) - (C#) A public API to interpret Eclipse plan templates, objective templates, and clinical protocols and utilize the interpretation in the generation of automated plans.
 * [cornerstone](https://github.com/cornerstonejs/cornerstone) - (JavaScript) Cornerstone.js delivers a complete web based medical imaging platform for displaying medical images in modern web browsers. 
 * [deid](https://github.com/pydicom/deid) - (Python) Best effort anonymization for medical images in Python.
 * [dicomParser](https://github.com/cornerstonejs/dicomParser) - (JavaScript) dicomParser is a lightweight library for parsing DICOM P10 byte streams, as well as raw (not encapsulated in part 10) byte streams.
 * [DLTK](https://github.com/DLTK/DLTK) - (Python) DLTK is a neural networks toolkit written in python, on top of TensorFlow for medical imaging.
+* [ESAPIX](https://github.com/rexcardan/ESAPIX) - (C#) An open source extension library for the Varian Eclipse Scripting API that contains extra methods, and bootstrapping frameworks.
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - (C#) A simple to use C# library for reading and manipulating DICOM files.
 * [FO-DICOM](https://github.com/fo-dicom/fo-dicom) - (C#) Fellow Oak DICOM, a DICOM toolkit in C# for all .NET Standard 2.0 compatible frameworks.
 * [mudicom](https://github.com/neurosnap/mudicom) - (Python) A light-weight python package that validates, reads, and extracts images from a DICOM file.
@@ -40,7 +42,8 @@ project. They generally do one set of things well.
 * [Dicompyler](https://github.com/bastula/dicompyler) - (**Deprecated**) dicompyler is an extensible open source radiation therapy research platform based on the DICOM standard. It also functions as a cross-platform DICOM RT viewer.
 * [dicomutils](https://github.com/raysearchlabs/dicomutils) - (Appears deprecated) A set of utilities for working with DICOM files.
 * [DVH-Analytics](https://github.com/cutright/DVH-Analytics) - (**Deprecated**) A software application for building a local database of radiation oncology treatment planning data.
-* [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simpliest PACS server for your dicom files.
+* [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simplest PACS server for your dicom files.
+* [Fabolus-v16](https://github.com/nsmela/Fabolus-v16) - Modifies STL files representing bolus for radiation therapy. Prepares them for 3D printing. 
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
@@ -49,7 +52,10 @@ project. They generally do one set of things well.
 * [PlanCheck](https://github.com/LDClark/PlanCheck) - A version 15/16 read-only plugin script that checks: Plan DVH metrics including planSums and planSetups, with PDF reports and customizable templates.
 * [pyQAserver](https://github.com/brjdenis/pyqaserver) - Pyqaserver connects Pylinac and Orthanc with a simplistic web interface.
 * [QATrack+](https://github.com/qatrackplus/qatrackplus) - QATrack+ is a fully configurable, free, and open source (MIT License) web application for managing QA data for radiation therapy and medical imaging equipment.
+* [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for segmentation of 104 classes in CT images.
 * [VarianESAPI-FieldEditor](https://github.com/brjdenis/VarianESAPI-FieldEditor) - A Varian ESAPI script for viewing and editing field parameters, mostly MLC and Jaw positions and meterset weights.
+* [VarianESAPI-HalcyonGantryAngle](https://github.com/brjdenis/VarianESAPI-HalcyonGantryAngle) - Varian ESAPI script and standalone app to determine Halcyon cardinal gantry angle error by manually analyzing a 2D image of the CIRS Iso Phantom.
+* [VarianESAPI-EQD2Converter](https://github.com/brjdenis/VarianESAPI-EQD2Converter) - A Varian ESAPI script that can be used to convert nominal dose distributions to EQD2 or BED.
 
 ## Educational Resources
 
