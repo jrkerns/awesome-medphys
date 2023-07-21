@@ -17,6 +17,7 @@ project. They generally do one set of things well.
 * [dicomParser](https://github.com/cornerstonejs/dicomParser) - (JavaScript) dicomParser is a lightweight library for parsing DICOM P10 byte streams, as well as raw (not encapsulated in part 10) byte streams.
 * [DLTK](https://github.com/DLTK/DLTK) - (Python) DLTK is a neural networks toolkit written in python, on top of TensorFlow for medical imaging.
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - (C#) A simple to use C# library for reading and manipulating DICOM files.
+* [FO-DICOM](https://github.com/fo-dicom/fo-dicom) - (C#) Fellow Oak DICOM, a DICOM toolkit in C# for all .NET Standard 2.0 compatible frameworks.
 * [mudicom](https://github.com/neurosnap/mudicom) - (Python) A light-weight python package that validates, reads, and extracts images from a DICOM file.
 * [pydicom](https://github.com/pydicom/pydicom) - (Python) A pure Python package for working with DICOM files. It lets you read, modify and write DICOM data in an easy "pythonic" way. [![PyPI version](https://badge.fury.io/py/pydicom.svg)](https://badge.fury.io/py/pydicom)
 * [PyESAPI](https://github.com/VarianAPIs/PyESAPI) - (Python) A passion project to help accelerate breakthroughs in medical physics research by bringing the power of Python into the Varian API ecosystem.
@@ -32,7 +33,10 @@ project. They generally do one set of things well.
   End-user focused applications; may contain a GUI or browser interface.
 
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
+* [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
+* [DicomCleaner](http://www.dclunie.com/pixelmed/software/webstart/DicomCleanerUsage.html) - A free open source tool with a user interface for importing, "cleaning" and saving sets of DICOM instances (files)
+* [DICOMClient](https://github.com/irrer/DICOMClient) - Application for anonymizing, viewing, editing, and uploading to a PACS system.
 * [Dicompyler](https://github.com/bastula/dicompyler) - (**Deprecated**) dicompyler is an extensible open source radiation therapy research platform based on the DICOM standard. It also functions as a cross-platform DICOM RT viewer.
 * [dicomutils](https://github.com/raysearchlabs/dicomutils) - (Appears deprecated) A set of utilities for working with DICOM files.
 * [DVH-Analytics](https://github.com/cutright/DVH-Analytics) - (**Deprecated**) A software application for building a local database of radiation oncology treatment planning data.
