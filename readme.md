@@ -19,6 +19,7 @@ project. They generally do one set of things well.
 * [DLTK](https://github.com/DLTK/DLTK) - (Python) DLTK is a neural networks toolkit written in python, on top of TensorFlow for medical imaging.
 * [ESAPIX](https://github.com/rexcardan/ESAPIX) - (C#) An open source extension library for the Varian Eclipse Scripting API that contains extra methods, and bootstrapping frameworks.
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - (C#) A simple to use C# library for reading and manipulating DICOM files.
+* [FlashGamma](https://github.com/samuelpeet/flashgamma) - (Python) A python package for speedy analyses of 2D radiotherapy dose distributions.
 * [FO-DICOM](https://github.com/fo-dicom/fo-dicom) - (C#) Fellow Oak DICOM, a DICOM toolkit in C# for all .NET Standard 2.0 compatible frameworks.
 * [mudicom](https://github.com/neurosnap/mudicom) - (Python) A light-weight python package that validates, reads, and extracts images from a DICOM file.
 * [pydicom](https://github.com/pydicom/pydicom) - (Python) A pure Python package for working with DICOM files. It lets you read, modify and write DICOM data in an easy "pythonic" way. [![PyPI version](https://badge.fury.io/py/pydicom.svg)](https://badge.fury.io/py/pydicom)
@@ -47,6 +48,7 @@ project. They generally do one set of things well.
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
+* [OMG Dosimetry](https://github.com/jfcabana/omg_dosimetry) - With OMG Dosimetry, you can easily perform film calibration, film-to-dose conversion, and dose analysis.
 * [Orthanc](https://github.com/jodogne/Orthanc) - Orthanc is a lightweight DICOM server for medical imaging.
 * [PDFtoAria](https://github.com/LDClark/PDFtoAria) - An executable script that uses Oncology Services and Eclipse Scripting APIs to upload a PDF file into Aria.
 * [PlanCheck](https://github.com/LDClark/PlanCheck) - A version 15/16 read-only plugin script that checks: Plan DVH metrics including planSums and planSetups, with PDF reports and customizable templates.
