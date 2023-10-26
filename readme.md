@@ -52,6 +52,7 @@ project. They generally do one set of things well.
 * [Orthanc](https://github.com/jodogne/Orthanc) - Orthanc is a lightweight DICOM server for medical imaging.
 * [PDFtoAria](https://github.com/LDClark/PDFtoAria) - An executable script that uses Oncology Services and Eclipse Scripting APIs to upload a PDF file into Aria.
 * [PlanCheck](https://github.com/LDClark/PlanCheck) - A version 15/16 read-only plugin script that checks: Plan DVH metrics including planSums and planSetups, with PDF reports and customizable templates.
+* [PyBeam-QA](https://github.com/Quantico-Bullet/PyBeam-QA) - A graphical user interface program for performing quality assurance tests in radiotherapy.
 * [pyQAserver](https://github.com/brjdenis/pyqaserver) - Pyqaserver connects Pylinac and Orthanc with a simplistic web interface.
 * [QALMA](https://github.com/mrmushfiq/qalma) - A Matlab based toolkit with GUI for quantitative analysis of Quality Assurance tests for Medical Linear Accelerators in Radiation Therapy.
 * [QATrack+](https://github.com/qatrackplus/qatrackplus) - QATrack+ is a fully configurable, free, and open source (MIT License) web application for managing QA data for radiation therapy and medical imaging equipment.
