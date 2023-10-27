@@ -12,6 +12,7 @@ project. They generally do one set of things well.
 
 * [ApertureComplexity](https://github.com/victorgabr/ApertureComplexity) - (Python) It is a Python 3.x port of the Eclipse ESAPI plug-in script. As such, it aims to contain the complete functionality of the aperture complexity analysis.
 * [BeamScheme](https://github.com/alanphys/BeamScheme) - (Pascal) This software will assist you in extracting 1D profiles from 2D datasets and calculating various parameters on the profiles.
+* [CIL](https://github.com/TomographicImaging/CIL) - (Python) Computational Imaging Library (CIL) is a Python library for tomographic imaging with particular emphasis on reconstruction of challenging datasets.
 * [ClinicalTemplateReader](https://github.com/WUSTL-ClinicalDev/ClinicalTemplateReader) - (C#) A public API to interpret Eclipse plan templates, objective templates, and clinical protocols and utilize the interpretation in the generation of automated plans.
 * [cornerstone](https://github.com/cornerstonejs/cornerstone) - (JavaScript) Cornerstone.js delivers a complete web based medical imaging platform for displaying medical images in modern web browsers. 
 * [deid](https://github.com/pydicom/deid) - (Python) Best effort anonymization for medical images in Python.
@@ -56,6 +57,8 @@ project. They generally do one set of things well.
 * [pyQAserver](https://github.com/brjdenis/pyqaserver) - Pyqaserver connects Pylinac and Orthanc with a simplistic web interface.
 * [QALMA](https://github.com/mrmushfiq/qalma) - A Matlab based toolkit with GUI for quantitative analysis of Quality Assurance tests for Medical Linear Accelerators in Radiation Therapy.
 * [QATrack+](https://github.com/qatrackplus/qatrackplus) - QATrack+ is a fully configurable, free, and open source (MIT License) web application for managing QA data for radiation therapy and medical imaging equipment.
+* [SIRF](https://github.com/SyneRBI/SIRF) - SIRF is a software toolkit for tomographic image reconstruction developed by the Synergistic Image Reconstruction Framework (SIRF) consortium.
+* [STIR](https://github.com/UCL/STIR) - STIR is Open Source software for use in tomographic imaging. Its aim is to provide a Multi-Platform Object-Oriented framework for all data manipulations in tomographic imaging.
 * [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for segmentation of 104 classes in CT images.
 * [VarianESAPI-FieldEditor](https://github.com/brjdenis/VarianESAPI-FieldEditor) - A Varian ESAPI script for viewing and editing field parameters, mostly MLC and Jaw positions and meterset weights.
 * [VarianESAPI-EQD2Converter](https://github.com/brjdenis/VarianESAPI-EQD2Converter) - A Varian ESAPI script that can be used to convert nominal dose distributions to EQD2 or BED.
