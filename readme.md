@@ -57,6 +57,7 @@ project. They generally do one set of things well.
 * [pyQAserver](https://github.com/brjdenis/pyqaserver) - Pyqaserver connects Pylinac and Orthanc with a simplistic web interface.
 * [QALMA](https://github.com/mrmushfiq/qalma) - A Matlab based toolkit with GUI for quantitative analysis of Quality Assurance tests for Medical Linear Accelerators in Radiation Therapy.
 * [QATrack+](https://github.com/qatrackplus/qatrackplus) - QATrack+ is a fully configurable, free, and open source (MIT License) web application for managing QA data for radiation therapy and medical imaging equipment.
+* [Sentinel](https://github.com/IsoAnalytica/Sentinel-Public) - Automated log-file analysis for Varian linacs (TrueBeam, Halcyon, Edge).
 * [SIRF](https://github.com/SyneRBI/SIRF) - SIRF is a software toolkit for tomographic image reconstruction developed by the Synergistic Image Reconstruction Framework (SIRF) consortium.
 * [STIR](https://github.com/UCL/STIR) - STIR is Open Source software for use in tomographic imaging. Its aim is to provide a Multi-Platform Object-Oriented framework for all data manipulations in tomographic imaging.
 * [TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for segmentation of 104 classes in CT images.
