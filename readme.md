@@ -11,7 +11,7 @@ Libraries are meant as tools within the context of a larger
 project. They generally do one set of things well. 
 
 * [ApertureComplexity](https://github.com/victorgabr/ApertureComplexity) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) It is a Python 3.x port of the Eclipse ESAPI plug-in script. As such, it aims to contain the complete functionality of the aperture complexity analysis.
-* [BeamScheme](https://github.com/alanphys/BeamScheme) - (Pascal) This software will assist you in extracting 1D profiles from 2D datasets and calculating various parameters on the profiles.
+* [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) BeamScheme is an analysis tool for 2D datasets. It will assist you in extracting 1D profiles from 2D datasets and can calculate over 90 different parameters. The parameter modules can be used separately. 
 * [CIL](https://github.com/TomographicImaging/CIL) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Computational Imaging Library (CIL) is a Python library for tomographic imaging with particular emphasis on reconstruction of challenging datasets.
 * [ClinicalTemplateReader](https://github.com/WUSTL-ClinicalDev/ClinicalTemplateReader) - ![Static Badge](https://img.shields.io/badge/C%23-stuff?style=flat&logo=c%23&color=blue) A public API to interpret Eclipse plan templates, objective templates, and clinical protocols and utilize the interpretation in the generation of automated plans.
 * [cornerstone](https://github.com/cornerstonejs/cornerstone) - ![Static Badge](https://img.shields.io/badge/JS-stuff?style=flat&logo=javascript&color=darkorange) Cornerstone.js delivers a complete web based medical imaging platform for displaying medical images in modern web browsers. 
@@ -37,6 +37,8 @@ project. They generally do one set of things well.
 
   End-user focused applications; may contain a GUI or browser interface.
 
+* [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) BeamScheme is an analysis tool for 2D datasets. It will assist you in extracting 1D profiles from 2D datasets and can various parameters.
+* [Bistromath](https://bistromath.kegge13.nl/index.php?i=download.php) - Analyse 1D profiles from beam scanners.
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
