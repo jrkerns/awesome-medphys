@@ -31,6 +31,7 @@ project. They generally do one set of things well.
 * [pynetdicom](https://github.com/pydicom/pynetdicom) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) A Python implementation of the DICOM networking protocol, originally based on (legacy) pynetdicom.
 * [pyorthanc](https://github.com/gacou54/pyorthanc) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Python library that wraps the Orthanc REST API and facilitates the manipulation of data with several cool utilities. ![PyPI](https://img.shields.io/pypi/v/pyorthanc)
 * [RTToolbox](https://github.com/MIC-DKFZ/RTTB) - ![Static Badge](https://img.shields.io/badge/C%2B%2B-stuff?style=flat&logo=c%2B%2B&color=green) RTToolbox is a software library to support quantitative analysis of treatment outcome for radiotherapy.
+* [TrajectoryLog.NET](https://github.com/WUSTL-ClinicalDev/TrajectoryLog.NET) - ![Static Badge](https://img.shields.io/badge/C%23-stuff?style=flat&logo=c%23&color=blue) Interprets trajectorylog binary files into .NET class specifications.
 
 ## Applications
 
