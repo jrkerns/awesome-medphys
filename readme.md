@@ -48,10 +48,11 @@ project. They generally do one set of things well.
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
+* [ctqa-cp](https://github.com/medicalphysics/ctqa-cp) - (**Appears deprecated**) Analysis tool for CT images of the CatPhan phantom. 
 * [DicomCleaner](http://www.dclunie.com/pixelmed/software/webstart/DicomCleanerUsage.html) - A free open source tool with a user interface for importing, "cleaning" and saving sets of DICOM instances (files)
 * [DICOMClient](https://github.com/irrer/DICOMClient) - Application for anonymizing, viewing, editing, and uploading to a PACS system.
 * [Dicompyler](https://github.com/bastula/dicompyler) - (**Deprecated**) dicompyler is an extensible open source radiation therapy research platform based on the DICOM standard. It also functions as a cross-platform DICOM RT viewer.
-* [dicomutils](https://github.com/raysearchlabs/dicomutils) - (Appears deprecated) A set of utilities for working with DICOM files.
+* [dicomutils](https://github.com/raysearchlabs/dicomutils) - (**Appears deprecated**) A set of utilities for working with DICOM files.
 * [DVH-Analytics](https://github.com/cutright/DVH-Analytics) - (**Deprecated**) A software application for building a local database of radiation oncology treatment planning data.
 * [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simplest PACS server for your dicom files.
 * [Fabolus-v16](https://github.com/nsmela/Fabolus-v16) - Modifies STL files representing bolus for radiation therapy. Prepares them for 3D printing. 
