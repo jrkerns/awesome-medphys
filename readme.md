@@ -54,6 +54,7 @@ project. They generally do one set of things well.
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
 * [ctqa-cp](https://github.com/medicalphysics/ctqa-cp) - (**Appears deprecated**) Analysis tool for CT images of the CatPhan phantom. 
+* [DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - DICOMautomaton is a multipurpose tool for analyzing medical physics data with a focus on automation.
 * [DicomCleaner](http://www.dclunie.com/pixelmed/software/webstart/DicomCleanerUsage.html) - A free open source tool with a user interface for importing, "cleaning" and saving sets of DICOM instances (files)
 * [DICOMClient](https://github.com/irrer/DICOMClient) - Application for anonymizing, viewing, editing, and uploading to a PACS system.
 * [Dicompyler](https://github.com/bastula/dicompyler) - (**Deprecated**) dicompyler is an extensible open source radiation therapy research platform based on the DICOM standard. It also functions as a cross-platform DICOM RT viewer.
