@@ -43,6 +43,7 @@ project. They generally do one set of things well.
 * [RTToolbox](https://github.com/MIC-DKFZ/RTTB) - ![Static Badge](https://img.shields.io/badge/C%2B%2B-stuff?style=flat&logo=c%2B%2B&color=green) RTToolbox is a software library to support quantitative analysis of treatment outcome for radiotherapy.
 * [TopasOpt](https://github.com/Image-X-Institute/TopasOpt) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) provides a framework for performing optimisation on monte carlo radiation transport simulations using [TOPAS](https://www.google.com/search?channel=fs&client=ubuntu&q=topas+MC). [![PyPI version](https://badge.fury.io/py/TopasOpt.svg)](https://badge.fury.io/py/TopasOpt)
 * [TrajectoryLog.NET](https://github.com/WUSTL-ClinicalDev/TrajectoryLog.NET) - ![Static Badge](https://img.shields.io/badge/C%23-stuff?style=flat&logo=c%23&color=blue) Interprets trajectorylog binary files into .NET class specifications.
+* [XIM reader](https://github.com/purepani/xim_reader) - ![Static Badge](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust) A python extension library to read the XIM image format, written in Rust for improved speed.
 
 ## Applications
 
