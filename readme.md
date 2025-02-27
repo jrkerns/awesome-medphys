@@ -7,15 +7,15 @@ The list is in semi-random order, following alphabetical order within a category
 
 ## Libraries
 
-Libraries are meant as tools within the context of a larger 
-project. They generally do one set of things well. 
+Libraries are meant as tools within the context of a larger
+project. They generally do one set of things well.
 
 * [ApertureComplexity](https://github.com/victorgabr/ApertureComplexity) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) It is a Python 3.x port of the Eclipse ESAPI plug-in script. As such, it aims to contain the complete functionality of the aperture complexity analysis.
-* [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) BeamScheme is an analysis tool for 2D datasets. It will assist you in extracting 1D profiles from 2D datasets and can calculate over 90 different parameters. The parameter modules can be used separately. 
+* [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) BeamScheme is an analysis tool for 2D datasets. It will assist you in extracting 1D profiles from 2D datasets and can calculate over 90 different parameters. The parameter modules can be used separately.
 * [CIL](https://github.com/TomographicImaging/CIL) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Computational Imaging Library (CIL) is a Python library for tomographic imaging with particular emphasis on reconstruction of challenging datasets.
 * [ClinicalTemplateReader](https://github.com/WUSTL-ClinicalDev/ClinicalTemplateReader) - ![Static Badge](https://img.shields.io/badge/C%23-stuff?style=flat&logo=c%23&color=blue) A public API to interpret Eclipse plan templates, objective templates, and clinical protocols and utilize the interpretation in the generation of automated plans.
 * [conehead](https://github.com/samuelpeet/conehead) - (**Undocumented**) A collapsed-cone convolution radiotherapy dose calculation algorithm.
-* [cornerstone](https://github.com/cornerstonejs/cornerstone) - ![Static Badge](https://img.shields.io/badge/JS-stuff?style=flat&logo=javascript&color=darkorange) Cornerstone.js delivers a complete web based medical imaging platform for displaying medical images in modern web browsers. 
+* [cornerstone](https://github.com/cornerstonejs/cornerstone) - ![Static Badge](https://img.shields.io/badge/JS-stuff?style=flat&logo=javascript&color=darkorange) Cornerstone.js delivers a complete web based medical imaging platform for displaying medical images in modern web browsers.
 * [deid](https://github.com/pydicom/deid) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Best effort anonymization for medical images in Python.
 * [dicomParser](https://github.com/cornerstonejs/dicomParser) - ![Static Badge](https://img.shields.io/badge/JS-stuff?style=flat&logo=javascript&color=darkorange) dicomParser is a lightweight library for parsing DICOM P10 byte streams, as well as raw (not encapsulated in part 10) byte streams.
 * [DLTK](https://github.com/DLTK/DLTK) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) DLTK is a neural networks toolkit written in python, on top of TensorFlow for medical imaging.
@@ -23,6 +23,7 @@ project. They generally do one set of things well.
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - ![Static Badge](https://img.shields.io/badge/C%23-stuff?style=flat&logo=c%23&color=blue) A simple to use C# library for reading and manipulating DICOM files.
 * [FlashGamma](https://github.com/samuelpeet/flashgamma) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) A python package for speedy analyses of 2D radiotherapy dose distributions.
 * [FO-DICOM](https://github.com/fo-dicom/fo-dicom) - ![Static Badge](https://img.shields.io/badge/C%23-stuff?style=flat&logo=c%23&color=blue) Fellow Oak DICOM, a DICOM toolkit in C# for all .NET Standard 2.0 compatible frameworks.
+* [lymph-model](https://github.com/rmnldwg/lymph) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Python package for statistical modelling of lymphatic metastatic spread in head & neck cancer.
 * [med-imagetools](https://github.com/bhklab/med-imagetools) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Med-Imagetools, a python package offers the perfect tool to transform messy medical dataset folders to deep learning ready format in few lines of code. ![PyPI](https://img.shields.io/pypi/v/med-imagetools)
 * [mri_distortion_toolkit](https://github.com/Image-X-Institute/mri_distortion_toolkit) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) Library enabling measurement, characterization, correction, and reporting of geometric distortion in Magnetic Resonance Imaging [![PyPI version](https://badge.fury.io/py/mri_distortion_toolkit.svg)](https://badge.fury.io/py/mri_distortion_toolkit)
 * [mudicom](https://github.com/neurosnap/mudicom) - ![Static Badge](https://img.shields.io/badge/Python-stuff?style=flat&logo=python&color=lime) A light-weight python package that validates, reads, and extracts images from a DICOM file.
@@ -54,7 +55,7 @@ project. They generally do one set of things well.
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
-* [ctqa-cp](https://github.com/medicalphysics/ctqa-cp) - (**Appears deprecated**) Analysis tool for CT images of the CatPhan phantom. 
+* [ctqa-cp](https://github.com/medicalphysics/ctqa-cp) - (**Appears deprecated**) Analysis tool for CT images of the CatPhan phantom.
 * [DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - DICOMautomaton is a multipurpose tool for analyzing medical physics data with a focus on automation.
 * [DicomCleaner](http://www.dclunie.com/pixelmed/software/webstart/DicomCleanerUsage.html) - A free open source tool with a user interface for importing, "cleaning" and saving sets of DICOM instances (files)
 * [DICOMClient](https://github.com/irrer/DICOMClient) - Application for anonymizing, viewing, editing, and uploading to a PACS system.
@@ -62,8 +63,10 @@ project. They generally do one set of things well.
 * [dicomutils](https://github.com/raysearchlabs/dicomutils) - (**Appears deprecated**) A set of utilities for working with DICOM files.
 * [DVH-Analytics](https://github.com/cutright/DVH-Analytics) - (**Deprecated**) A software application for building a local database of radiation oncology treatment planning data.
 * [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simplest PACS server for your dicom files.
-* [Fabolus-v16](https://github.com/nsmela/Fabolus-v16) - Modifies STL files representing bolus for radiation therapy. Prepares them for 3D printing. 
+* [Fabolus-v16](https://github.com/nsmela/Fabolus-v16) - Modifies STL files representing bolus for radiation therapy. Prepares them for 3D printing.
+* [Kali MC](https://github.com/radiofisica-hgugm/kali_mc) - Software for calculating IORT treatments with a LIAC HWL linac, based on precalculated Monte Carlo dose distributions in water.
 * [LinaQA](https://github.com/alanphys/LinaQA) - LinaQA is a GUI frontend for pylinac and pydicom. It is intended to be a general purpose medical physics quality assurance tool for radiotherapy, nuclear medicine and diagnostic radiology.
+* [LyProX](https://lyprox.org) - Web app for exploring patterns and correlations in the lymph node level involvements of head & neck cancer patients.
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
@@ -94,10 +97,11 @@ Repos, books, or links to a teaching resource
 * [RadMachine API Examples](https://github.com/Radformation/radmachine-api-examples) - Examples on how to use and call the RadMachine API.
 * [Varian Code Samples](https://github.com/VarianAPIs/Varian-Code-Samples) - Here you will find code samples for ESAPI and other Varian APIs and web services.
 * [Mayo RadOnc NLP Database](https://github.com/Mayo-Clinic-RadOnc-Foundation-Models/Radiation-Oncology-NLP-Database) - This is the world's first dedicated NLP dataset for radiation oncology, and it covers various NLP tasks to help advance research in this field.
+* [Phase Space Files of a Liac HWL IORT mobile linac](https://doi.org/10.5281/zenodo.14029134) - A set of Monte Carlo phase-space files (PSFs) calculated with penEasy 2020 for the Liac HWL mobile IORT accelerator. 
 
 ## Contributing
 
-Pull Requests are welcome! The item should be 
+Pull Requests are welcome! The item should be
 specifically applicable to medical physics. E.g. `numpy` doesn't count.
 For libraries and applications, the project should be meant to be used by others;
 a set of scripts that might be interesting does not count.
