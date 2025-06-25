@@ -67,6 +67,7 @@ project. They generally do one set of things well.
 * [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simplest PACS server for your dicom files.
 * [Fabolus-v16](https://github.com/nsmela/Fabolus-v16) - Modifies STL files representing bolus for radiation therapy. Prepares them for 3D printing.
 * [Kali MC](https://github.com/radiofisica-hgugm/kali_mc) - Software for calculating IORT treatments with a LIAC HWL linac, based on precalculated Monte Carlo dose distributions in water.
+* [LinacSimPy](https://github.com/dezanche/LinacSimPy) - Interactive model of a medical linac for educational purposes.
 * [LinaQA](https://github.com/alanphys/LinaQA) - LinaQA is a GUI frontend for pylinac and pydicom. It is intended to be a general purpose medical physics quality assurance tool for radiotherapy, nuclear medicine and diagnostic radiology.
 * [LyProX](https://lyprox.org) - Web app for exploring patterns and correlations in the lymph node level involvements of head & neck cancer patients.
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
@@ -96,6 +97,7 @@ project. They generally do one set of things well.
 Repos, books, or links to a teaching resource
 
 * [Innolitics](https://dicom.innolitics.com/ciods) - Super useful DICOM tag browser; also contains a file parser.
+* [LinacSimPy](https://github.com/dezanche/LinacSimPy) - Interactive model of a medical linac for educational purposes.
 * [RadMachine API Examples](https://github.com/Radformation/radmachine-api-examples) - Examples on how to use and call the RadMachine API.
 * [Varian Code Samples](https://github.com/VarianAPIs/Varian-Code-Samples) - Here you will find code samples for ESAPI and other Varian APIs and web services.
 * [Mayo RadOnc NLP Database](https://github.com/Mayo-Clinic-RadOnc-Foundation-Models/Radiation-Oncology-NLP-Database) - This is the world's first dedicated NLP dataset for radiation oncology, and it covers various NLP tasks to help advance research in this field.
