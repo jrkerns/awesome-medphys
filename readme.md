@@ -70,7 +70,7 @@ project. They generally do one set of things well.
 * [LinacSimPy](https://github.com/dezanche/LinacSimPy) - Interactive model of a medical linac for educational purposes.
 * [LinaQA](https://github.com/alanphys/LinaQA) - LinaQA is a GUI frontend for pylinac and pydicom. It is intended to be a general purpose medical physics quality assurance tool for radiotherapy, nuclear medicine and diagnostic radiology.
 * [LyProX](https://lyprox.org) - Web app for exploring patterns and correlations in the lymph node level involvements of head & neck cancer patients.
-* [LQ-Equiv](https://github.com/cyrilvoyant/LQ-Equiv) – Documentation (PDF) and standalone Windows executable for linear–quadratic-Linear (LQL) equivalence calculations in radiotherapy.
+* [LQL-Equiv](https://github.com/cyrilvoyant/LQ-Equiv) – Documentation (PDF) and standalone Windows executable for linear–quadratic–linear (LQL) radiobiological modeling, including bifractionation, repopulation effects, and tissue parameter libraries.
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
