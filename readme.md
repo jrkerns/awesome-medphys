@@ -54,6 +54,7 @@ project. They generally do one set of things well.
 
 * [BeamSchemeV1](https://github.com/alanphys/BeamSchemeV1) - (Pascal) BeamScheme is an analysis tool for 2D datasets. It will assist you in extracting 1D profiles from 2D datasets and can various parameters.
 * [Bistromath](https://bistromath.kegge13.nl/index.php?i=download.php) - Analyse 1D profiles from beam scanners.
+* [brachify](https://github.com/brachify/brachify) - 3D modeling software for 3D printable brachytherapy applicators. DICOM -> Cylinder STL and more. 
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
