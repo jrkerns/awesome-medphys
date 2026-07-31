@@ -64,6 +64,7 @@ project. They generally do one set of things well.
 * [DICOMClient](https://github.com/irrer/DICOMClient) - Application for anonymizing, viewing, editing, and uploading to a PACS system.
 * [Dicompyler](https://github.com/bastula/dicompyler) - (**Deprecated**) dicompyler is an extensible open source radiation therapy research platform based on the DICOM standard. It also functions as a cross-platform DICOM RT viewer.
 * [dicomutils](https://github.com/raysearchlabs/dicomutils) - (**Appears deprecated**) A set of utilities for working with DICOM files.
+* [dcm-anon](https://github.com/Ces107/dcm-anon) - PS3.15 Basic Profile DICOM anonymizer; emits a verbatim-cited GDPR/HIPAA/EU AI Act compliance manifest and runs an independent residual-PHI scan per run
 * [Dosepy](https://github.com/LuisOlivaresJ/Dosepy) - Film dosimetry in radiotherapy.
 * [DVH-Analytics](https://github.com/cutright/DVH-Analytics) - (**Deprecated**) A software application for building a local database of radiation oncology treatment planning data.
 * [EasyPACS](https://github.com/mehmetsen80/EasyPACS) - (Appears Deprecated) EasyPACS is the simplest PACS server for your dicom files.
