@@ -78,6 +78,7 @@ project. They generally do one set of things well.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MedCheck](https://github.com/Liohtml/MedCheck) - AI-powered medical imaging analysis toolkit with DICOM support, local ML models, and Vision-LLM integration.
 * [MUSIMAN](https://github.com/marcelinohermida/MUSIMAN) - MUltiple SImulations MANagement. The Monte Carlo code for radiation transport PENELOPE 2014.
+* [NeutronRise Gamma Dose-Rate & Shielding Calculator](https://neutronrise.com/tools/gamma-dose-rate-shielding-calculator/) - Browser-based point-source gamma dose-rate, shielding (HVL/TVL for lead/concrete/steel/water), and worker stay-time calculator. Includes nuclear-medicine isotopes (Tc-99m, F-18, I-123, Ga-67, Se-75, Tl-201, Am-241) with air-kerma rate constants; CSV/PDF/PNG export. Runs entirely client-side.
 * [OMG Dosimetry](https://github.com/jfcabana/omg_dosimetry) - With OMG Dosimetry, you can easily perform film calibration, film-to-dose conversion, and dose analysis.
 * [openTPS](https://www.opentps.org/) - OpenTPS is an open-source treatment planning system (TPS) for research in radiation therapy and proton therapy. It was developed in Python with a special focus on simplifying contribution to the core functions to let the user develop their own features.
 * [Orthanc](https://github.com/jodogne/Orthanc) - Orthanc is a lightweight DICOM server for medical imaging.
