@@ -57,6 +57,7 @@ project. They generally do one set of things well.
 * [brachify](https://github.com/brachify/brachify) - 3D modeling software for 3D printable brachytherapy applicators. DICOM -> Cylinder STL and more. 
 * [CERR](https://github.com/cerr/CERR) - A Computational Environment for Radiological Research
 * [Conquest](https://github.com/marcelvanherk/Conquest-DICOM-Server) - A full featured DICOM server
+* [CTD_SIMU_RAI](https://github.com/MarieFG49/CTD_SIMU_RAI) - RAIR-Sim, a compartmental simulator of the therapeutic response to radioactive iodine therapy in metastatic thyroid cancer, letting clinicians explore how session count, interval and administered activity affect the simulated thyroglobulin trajectory.
 * [ctqa](https://github.com/Brikwerk/ctqa) - This utility aims to perform automated QA testing on CT machines for technologists.
 * [ctqa-cp](https://github.com/medicalphysics/ctqa-cp) - (**Appears deprecated**) Analysis tool for CT images of the CatPhan phantom.
 * [DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - DICOMautomaton is a multipurpose tool for analyzing medical physics data with a focus on automation.
