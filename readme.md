@@ -75,6 +75,7 @@ project. They generally do one set of things well.
 * [LinaQA](https://github.com/alanphys/LinaQA) - LinaQA is a GUI frontend for pylinac and pydicom. It is intended to be a general purpose medical physics quality assurance tool for radiotherapy, nuclear medicine and diagnostic radiology.
 * [LyProX](https://lyprox.org) - Web app for exploring patterns and correlations in the lymph node level involvements of head & neck cancer patients.
 * [LQL-Equiv](https://github.com/cyrilvoyant/LQ-Equiv) – Documentation (PDF) and standalone Windows executable for linear–quadratic–linear (LQL) radiobiological modeling, including bifractionation, repopulation effects, and tissue parameter libraries.
+* [LQL-Equiv-web](https://github.com/cyrilvoyant/LQL-Equiv-web) - Python library and browser application for biologically equivalent doses (BED, EQD2, NTCP, TCP) under the linear-quadratic-linear model. No installation; [try it online](https://cyrilvoyant.github.io/LQL-Equiv-web/). For research and education, not a medical device.
 * [MAAS-PlanScoreCard](https://github.com/Varian-MedicalAffairsAppliedSolutions/MAAS-PlanScoreCard) - Medical Affairs Applied Solutions ESAPI tool to create dosimetric ScoreCards and score plans.
 * [matRad](https://github.com/e0404/matRad) - matRad is an open source treatment planning system for radiation therapy written in Matlab.
 * [MedCheck](https://github.com/Liohtml/MedCheck) - AI-powered medical imaging analysis toolkit with DICOM support, local ML models, and Vision-LLM integration.
